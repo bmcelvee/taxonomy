@@ -1,0 +1,19 @@
+created_by: 
+domain: geology
+seed_examples:
+- answer: |deep-blue
+  question: What color is Lapis lazuli?
+- answer: |It was mined in the Badakhshan region of upper Afghanistan
+  question: Where is Lapis lazuli originate?
+- answer: | It is a metamorphic rock used as a semi-precious stone
+  question: What kind of material is Lapis lazuli?
+- answer: |Mines in northeast Afghanistan continue to be a major source of lapis lazuli. Important amounts are also produced from mines west of Lake Baikal in Russia, and in the Andes mountains in Chile which is the source that the Inca used to carve artifacts and jewelry. Smaller quantities are mined in Pakistan, Italy, Mongolia, the United States, and Canada
+  question: Where is Lapis lazuli mined?
+- answer: | Jewellery, carvings, boxes, mosaics, ornaments, small statues, and vases
+  question: How is Lapis lazuli used?
+task_description: ' '
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: 0575dbd1b2285917a2103802de952d0f6e385b0f
+ patterns:
+   - lapis_lazuli.md
